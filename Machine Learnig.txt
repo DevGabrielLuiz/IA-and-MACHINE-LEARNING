@@ -1,0 +1,38 @@
+É necessário treinar um sistema de IA.
+Tomada de decisão com suporte de base de regras bem definidas
+Decisões neutras e calculadas
+Automação para correção e suporte de falha humana
+
+IA GERAL - que faz tudo, (ainda não existe)
+IA RESTRITA - Restrita pequenos problemas
+TESTE DE TURING: Teste que verifca se o robo pode imitar um ser humano
+
+IA = capacidade de generalizar, reconhecer coisas que não foram passadas exatamente do mesmo jeito
+machine learnig = capacidade de ensinar o sistema para adquirir uma inteligencia
+
+ML programa computadores para aprender padrões automaticamente a partir de exemplos e observações = DATASETS
+
+APRENZIADO POR REFORÇO = atribui recompensas por acerto e "punição" por erro
+
+ALGORITMOS BIONSPIRADOS = Inspridados em comportamentos de seres vivos em conivencia social, conhecimento colaborativos e e metodos heuristicos que buscame a melhor soluççao global (dentro do espaço de busca)
+
+REDES NEURAIS =  são um tipo de inteligência artificial (IA) que imita o funcionamento do cérebro humano e é usada para processar dados
+
+LÓGICA FUZZY = Não há uma resposta exata para tudo e deve se encontar a solução que melhor satisfaz cada ocasião
+
+ALGORTIMO DE ROTEAMENTO = Atribui valores para cada link neural
+
+O NEURONIOS DEVEM SER CAPAZES DE TOMAR DECISÕES DETERMINSITICAS E NÃO DETERMINISTICAS E DEVEM SER CAPAZES DE TOMAR DECISOES AUTONOMAS TAMBÉM
+
+POSSUIMOS: sinais de input, peso input, combinação linear, função de ativação e sinal de output
+
+A REDE RECEBE UMA IMAGEM E PERCORRE ESSA IMAGEM COM UMA MATRIZ E DETECTA OS PONTOS IMIRTANTES PARA DISTINGUIR O QUE É AQUELA IMAGEM
+
+NÃO SABEMOS O QUE A REDE CONSIDERA COMO IMPORTANTE , OS PONTOS IMPORTANTES FICAM DENTRO DE UMA CAIXA PRETA
+
+RN ARITIFICIAS = Quanto mais classes mais probabilidade de erro e  para minimizar isso devemos treinar o maximo possivel o sistema
+Os valores gerados ebtre cibexões sao chamados de pesos que gerão treinamento, geralmente gera um arquivo txt com todos os pesos que representa o conhecimentos
+
+ARQUIVO DE PESO = Possue valores positivos e negativos que são as ponderações sinapses e o arquivo de saida com as respostas cada item no arqwuivo saida equivale a uma resposta e q se for positivo = sim 
+
+OVERFITTING = No campo do aprendizado de máquina, o overfitting se manifesta quando um algoritmo se adapta excessivamente ou até mesmo de forma precisa aos dados de treinamento, levando a um modelo que não consegue fazer previsões ou conclusões precisas com outros dados que não sejam os de treinamento.
